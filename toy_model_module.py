@@ -324,8 +324,8 @@ def show_damfcn2(damage_fcns):
     plt.plot(wd2test,mean_dam,'r-',label='Mean DR')
     plt.xlabel('Inundation (m)')
     plt.ylabel('Damage ratio')
-    plt.legend()
-    plt.grid(True,color='#DCDCDC')
+    plt.legend(loc='lower right')
+    plt.grid(True,color='#C0C0C0')
     plt.colorbar(CS[3])
     plt.show()
     
