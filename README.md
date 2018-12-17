@@ -5,7 +5,7 @@ To learn more about catastrophe modeling and geospatial analysis in Python, I cr
 ## Getting started
 1. Download the repository, place in a folder/directory. 
 2. Make sure you have python 3 installed and have the software required to open jupyter notebooks. Also make sure you have the dependencies installed (see below). I recommend using anaconda/jupyter lab for all this.
-3. Familiarize yourself with everything that's in the repository (see below)
+3. Familiarize yourself with everything that's in the repository (see below). Note that the documentation for the entire model is in 'cat_model_demonstration.ipynb', including a detailed description and demonstration of how the model works.
 4. Then you should be ready to run code in all the notebooks and scripts in repository. 
 
 ## What are the dependencies? 
